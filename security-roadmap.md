@@ -8,7 +8,7 @@ authentication; we need to provide tools for end-users, for
 application developers, and for platform security. Moreover, the
 security of Web applications depends on underlying protocols, on
 browser and server software, hence we need to enlist the cooperation
-of participants throughout the ecosystem. A joint approach, can help
+of participants throughout the ecosystem. A joint approach can help
 re-establish trust in the platform as a place for commerce and
 communication, addressing concerns of an increasing number of Web
 users. We must address these challenges now because individual and
@@ -63,11 +63,11 @@ communication between the browser and the server).
 * Authentication
 
 Building on the multi-factor authentication work of the
-FIDO Alliance, [Secure Authentication] will aim to standardize
+FIDO Alliance, [Secure Authentication](https://w3c.github.io/websec/web-authentication-charter) will aim to standardize
 multi-factor authentication for the Web, using the combination of
 "something you have" with "something you know," so that hacking a
 password database is no longer sufficient to hijack user
-accounts. [Hardware-based Security] aims to improve the levels of
+accounts. [Hardware-based Security](https://w3c.github.io/websec/hasec-charter) aims to improve the levels of
 assurance to which users and application providers are able to protect
 their online accounts and communications, by making hardware security services available to the Web.
 
